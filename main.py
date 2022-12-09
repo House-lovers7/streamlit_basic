@@ -60,7 +60,6 @@ if button:
     expander3.write('問いあわせの回答')
     expander4 = st.expander('問いあわせ4')
     expander4.write('問いあわせの回答')
-    condition2 = st.slider('あなたのいまの調子は？', 0, 100, 50)
 
 
 st.write('プログレスバー')
